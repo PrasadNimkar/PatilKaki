@@ -1,0 +1,69 @@
+body {
+    font-family: 'General Sans', sans-serif;
+    margin: 0;
+    padding: 0;
+  }
+  
+  .container {
+    max-width: 960px;
+    margin: 0 auto;
+    padding: 0 20px;
+  }
+  
+  .hero {
+    background-color: #C9E4CA;
+    color: #333;
+    text-align: center;
+    padding: 100px 0;
+  }
+  
+  .about-founder {
+    background-color: #F8F9FA;
+    text-align: center;
+    padding: 80px 0;
+  }
+  
+  .about-founder img {
+    max-width: 100%;
+    border-radius: 50%;
+  }
+  
+  .why-choose {
+    background-color: #FFD166;
+    text-align: center;
+    padding: 60px 0;
+  }
+  
+  .icon {
+    display: inline-block;
+    margin: 0 20px;
+  }
+  
+  .countdown {
+    background-color: #6A0572;
+    color: #FFF;
+    text-align: center;
+    padding: 60px 0;
+  }
+  
+  .cta {
+    background-color: #474747;
+    color: #FFF;
+    text-align: center;
+    padding: 80px 0;
+  }
+  
+  .btn {
+    display: inline-block;
+    background-color: #FF9F1C;
+    color: #FFF;
+    text-decoration: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    transition: background-color 0.3s ease;
+  }
+  
+  .btn:hover {
+    background-color: #FFBE4F;
+  }
+  
